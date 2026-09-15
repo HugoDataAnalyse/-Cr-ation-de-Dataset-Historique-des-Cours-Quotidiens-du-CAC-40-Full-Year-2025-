@@ -7,5 +7,3 @@ Ingénierie des données : Développement d'un script Python utilisant la librai
 Qualité des données : Nettoyage rigoureux des données (exclusion des week-ends/jours fériés boursiers, arrondi à deux décimales) pour livrer un outil prêt à l'emploi (ready-to-use).
 
 Cas d'usage cibles : Dataset conçu spécifiquement pour la communauté Data Science afin de faciliter l'analyse de séries temporelles, le forecasting financier et la visualisation sectorielle.
-
-Compétences clés : Data Engineering, Python (yfinance), Collecte de données, Finance de marché.
